@@ -1,0 +1,19 @@
+{
+  "simulations_directory": "./simulations/",
+  "process_number": -1,
+  "default_param_J": [
+    1
+  ],
+  "default_param_D": [
+    1
+  ],
+  "default_param_Hz": [
+    0
+  ],
+  "default_param_T": [
+    0.2
+  ],
+  "default_delta_snapshots": 5e3,
+  "default_steps_number": 1e7,
+  "default_save_snapshots": false
+}
